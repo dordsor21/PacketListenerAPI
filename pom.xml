@@ -10,8 +10,6 @@
     <version>parent</version>
     <modules>
         <module>API</module>
-        <!--<module>Comp-API</module>-->
-        <module>Plugin</module>
     </modules>
     <name>PacketListenerAPI</name>
 
