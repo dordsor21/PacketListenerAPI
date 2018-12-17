@@ -10,8 +10,6 @@
     <version>parent</version>
     <modules>
         <module>API</module>
-        <module>1_7</module>
-        <module>1_8</module>
         <!--<module>Comp-API</module>-->
         <module>Plugin</module>
     </modules>
